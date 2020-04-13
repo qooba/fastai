@@ -131,3 +131,6 @@ dmypy.json
 course-v3/
 fastai/
 _fastai/
+*.pth
+*.th
+*.jpg
